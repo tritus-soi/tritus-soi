@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Tritus. You can call me Tony.
+- 👀 I’m interested in ML/ Data science
+- 🌱 I’m currently learning R.
+- 💞️ I’m looking to collaborate on Data analysis
+- 📫 tritus.soi@gmail.com
